@@ -4,7 +4,7 @@
 **`Estudante de ciência de dados`**
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens 
 
 <img 
     align="left" 

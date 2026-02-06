@@ -14,27 +14,21 @@ buscando construir projetos práticos e melhorar minhas habilidades todos os dia
 - 🔧 Ferramentas: Git, GitHub, VS Code
 
 ---
-<br/>
-<br/>
 
-<p>
+<div align="center">
+
 <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=heveanna&show_icons=true&theme=synthwave&include_all_commits=true"
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=heveanna&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"
 />
-  
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=heveanna&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+<img 
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=heveanna&layout=compact&theme=synthwave&langs_count=9"
+/>
+
+</div>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heveanna&show_icons=true&theme=tokyonight)
 

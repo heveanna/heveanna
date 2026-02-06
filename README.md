@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Anna Hevellyn
-
 🎓 Estudante de Desenvolvimento de Software  
 💻 Interesse em Back-end, Banco de Dados e Machine Learning  
 

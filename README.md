@@ -35,3 +35,6 @@ buscando construir projetos práticos e melhorar minhas habilidades todos os dia
   />
 
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heveanna&show_icons=true&theme=tokyonight)
+

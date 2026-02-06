@@ -1,29 +1,21 @@
-# 👩‍💻 Anna Hevellyn
+# 👋 Olá, eu sou Anna Hevellyn
 
+🎓 Estudante de Desenvolvimento de Software  
+💻 Interesse em Back-end, Banco de Dados e Machine Learning  
 
-**`Estudante de ciência de dados`**
+Atualmente estudo programação, banco de dados e desenvolvimento de sistemas, 
+buscando construir projetos práticos e melhorar minhas habilidades todos os dias.
 
+---
 
-### 🤖 Linguagens 
+## 🛠️ Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+- 💡 Linguagens: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+                 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 🗄️ Banco de Dados: MySQL, SQL Server
+- 🔧 Ferramentas: Git, GitHub, VS Code
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+---
 <br/>
 <br/>
 

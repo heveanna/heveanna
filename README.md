@@ -20,17 +20,3 @@ focused on building practical projects and improving my skills every day.*
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
-
-<div align="center">
-
-<img 
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=heveanna&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"
-/>
-
-<img 
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=heveanna&layout=compact&theme=synthwave&langs_count=9"
-/>
-
-</div>
